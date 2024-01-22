@@ -52,18 +52,19 @@ header{
     text-align: center;
 }
 .text #name{
+    padding-top: 2px;
     letter-spacing: 5px;
     font-family: sci-fi3;
 }
 .text #role{
-    padding-top: 2px;
     letter-spacing: 2px;
     font-family: "Ubuntu", sans-serif;
     font-size: 12px;
     font-weight: 700;
 }
 .person-links{
-    margin: 20px 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     display: flex;
     justify-content: center;
     gap: 20px;
